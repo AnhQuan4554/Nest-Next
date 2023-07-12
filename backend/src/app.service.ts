@@ -6,6 +6,6 @@ export class AppService {
     return 'Hello World!gfyuisdgfhidsuahyrtfiu ';
   }
   testRenderString(): number {
-    return 21312;
+    return 1230123;
   }
 }
